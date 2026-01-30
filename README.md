@@ -1,1 +1,1 @@
-# landing-page
+In this project I'll be making a landing page. This requires a basic understanding of CSS Flexbox and nesting in HTML (parent and child) in order to make Flexbox work properly without having a lot of difficulties and frustration.
